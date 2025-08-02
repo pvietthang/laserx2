@@ -118,7 +118,7 @@ def check_dmc2():
     def check_kq(i):
         try:
             global rework_flag
-            if len(ET_dmccheck.get()) == 29 or len(ET_dmccheck.get()) == 25 or len(ET_dmccheck.get()) == 26 or len(ET_dmccheck.get()) == 27 or len(ET_dmccheck.get()) == 39:
+            if len(ET_dmccheck.get()) == 29 or len(ET_dmccheck.get()) == 25 or len(ET_dmccheck.get()) == 26 or len(ET_dmccheck.get()) == 27 or len(ET_dmccheck.get()) == 28 or len(ET_dmccheck.get()) == 39:
                 if ET_dmccheck.get() == maqr:
                     TimeBarcode = datetime.datetime.now()
                     if rework_flag:
