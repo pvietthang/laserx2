@@ -1,0 +1,167 @@
+-------------------Log----------------24/11/26-14:33:40
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:41
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:43
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:44
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:46
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:48
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:49
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:51
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:52
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:54
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:55
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:57
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:33:58
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:34:00
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:34:01
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:34:03
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:34:04
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:34:05
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 403, in again
+    serial_no = str4(getserial(CB_mahang.get()))
+  File "e:\Thang\sua-app\phoi\laser2(inter)\fiprequest.py", line 56, in getserial
+    get =  json.loads( Req.text )['data'][0]['Serial']
+IndexError: list index out of range
+
+-------------------Log----------------24/11/26-14:56:10
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 221, in MAQR
+    nam=x.strftime("%y")
+NameError: name 'x' is not defined
+
+-------------------Log----------------24/11/26-14:57:27
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 221, in MAQR
+    nam=x.strftime("%y")
+NameError: name 'x' is not defined
+
+-------------------Log----------------24/11/26-14:57:34
+Traceback (most recent call last):
+  File "e:\Thang\sua-app\phoi\laser2(inter)\laser3.py", line 337, in clicked
+    pyperclip.copy(maqr)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\pyperclip\__init__.py", line 659, in lazy_load_stub_copy
+    return copy(text)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\pyperclip\__init__.py", line 463, in copy_windows
+    text = _stringifyText(text) # Converts non-str values to str.
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python310\lib\site-packages\pyperclip\__init__.py", line 111, in _stringifyText
+    raise PyperclipException('only str, int, float, and bool values can be copied to the clipboard, not %s' % (text.__class__.__name__))
+pyperclip.PyperclipException: only str, int, float, and bool values can be copied to the clipboard, not NoneType
